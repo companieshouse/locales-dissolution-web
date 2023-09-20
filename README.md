@@ -1,4 +1,3 @@
-# locales-dissolution-we
-Locales resource files for providing i18n internationalisation of the
-dissolution-web application.
+# locales-dissolution-web
+Locales resource files for providing **i18n** (_internationalisation_) to [dissolution-web](https://github.com/companieshouse/dissolution-web).
 
