@@ -1,0 +1,16 @@
+{
+  "name": "@companieshouse/locales-dissolution-web",
+  "version": "1.0.0",
+  "description": "language bundle for dissolution-web",
+  "main": "locales",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "companieshouse",
+  "license": "MIT",
+  "homepage": "https://github.com/companieshouse/locales-dissolution-web",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/companieshouse/locales-dissolution-web.git"
+  }
+}
