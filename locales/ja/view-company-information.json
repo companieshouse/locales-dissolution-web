@@ -6,5 +6,6 @@
     "vci_inc_date" : "設立日",
     "vci_co_type" : "会社の種類",
     "vci_reg_addr" : "登録されているオフィスの住所",
-    "vci_diff" : "別の会社を選択してください"
+    "vci_diff" : "別の会社を選択してください",
+    "vci_new" : "Dewiswch gwmni gwahanol"
 }
