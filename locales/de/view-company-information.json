@@ -6,5 +6,6 @@
     "vci_inc_date": "Gründungsdatum",
     "vci_co_type": "Firmentyp",
     "vci_reg_addr": "Eingetragene Firmenadresse",
-    "vci_diff": "Wählen Sie ein anderes Unternehmen"
+    "vci_diff": "Wählen Sie ein anderes Unternehmen",
+    "vci_new" : "Eine neue coole Funktion hier"
 }
